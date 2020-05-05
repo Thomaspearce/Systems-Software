@@ -1,8 +1,8 @@
 # Systems-Software
 
-todo
+# todo
 
-code
+# code
 
 server
 
@@ -33,7 +33,7 @@ connect using login password protected
 auto update
 
 
-gui
+# gui
 
 user weather distinguist
 
@@ -47,7 +47,7 @@ view data
 
 
 
-doccumentation
+# doccumentation
 
 8 pages
 
