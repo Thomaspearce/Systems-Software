@@ -2,7 +2,24 @@
 
 # todo
 
-# code
+
+# main list
+
+gui
+
+user weather distinguist
+
+weather rng numbers
+
+sql database
+
+connect using password
+
+view data
+
+
+
+# list
 
 server
 
@@ -32,18 +49,6 @@ connect using login password protected
 
 auto update
 
-
-# gui
-
-user weather distinguist
-
-weather rng numbers
-
-sql database
-
-connect using password
-
-view data
 
 
 
