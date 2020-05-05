@@ -7,7 +7,7 @@
 
 gui
 
-user weather distinguist
+user weather distinguish
 
 weather rng numbers
 
